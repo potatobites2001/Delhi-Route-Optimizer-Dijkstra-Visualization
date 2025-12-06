@@ -11,7 +11,6 @@ Select any two locations and the application displays the shortest path along wi
 
 
 
-![Preview](Dijkstra_Delhi_Image_map.png)
 
 
 
@@ -53,4 +52,5 @@ Canvas API — For visualization
 
 ## Feedback
 If you have any feedback, please reach out to us at lehargupta2001@gmail.com
+
 
